@@ -6,7 +6,7 @@ This repository is an archive of all the code used to build and train the image 
 ---
 
 ### 📂 Datasets
-We utilized three datasets for this project:
+We utilized three datasets for this project, and also those are hyperlinks, so if you click you might be redirected to the source of the datasets.
 
 - **Dataset-1**: [5,917 images](https://www.kaggle.com/datasets/samuelcortinhas/muffin-vs-chihuahua-image-classification)
 - **Dataset-2**: [6,266 images](https://www.kaggle.com/datasets/l33tc0d3r/indian-food-classification)
