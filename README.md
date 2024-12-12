@@ -27,7 +27,7 @@ The following models were used to build and evaluate our classifier:
 - **Akhila Jakamukala**
 - **Shuvanidhi Suresh**
 - **Sujith Kumaravel**
-- **Ushnish Chakravarthy**
+- **Ushnish Chakravarty**
 
 ---
 
